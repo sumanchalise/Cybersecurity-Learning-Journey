@@ -1,2 +1,2 @@
 # Day 1 - Linux Fundamentals
-Learning basic Linux commands and file navigation.
+Started cybersecurity learning journey. Practicing basic Linux navigation and commands.
